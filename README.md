@@ -1,5 +1,6 @@
-#### My name is Diego, I am from Brazil 
- I really love to solve problems and make people happy! 
+#### My name is Diego, I am from São Paulo, Brazil 
+
+I love learning new ways to solve problems based on programming and improving my methods of reinventing apps and websites via programming. 
  
 • I'm enthusiastic about programming ;
 
