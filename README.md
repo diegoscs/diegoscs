@@ -1,16 +1,33 @@
-### Hi there 👋
+#### My name is Diego, I am from Brazil 
+ I really love to solve problems and make people happy! 
+ 
+• I'm enthusiastic about programming ;
 
-<!--
-**diegoscs/diegoscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Very patient ;
 
-Here are some ideas to get you started:
+• I learn languages fast ;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Get in touch with me through my social network: 
+
+<a href="" alt= "LinkedIN" target= "_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=green&link=">
+</a>   
+
+### Technologies, Languages and frameworks:
+![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=blue)
+![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=green)
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=blue"/>
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=green"/>
+ <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=blue" />
+ <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=blue"/>
+   
+
+### My Stats from GitHub:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoscs&theme=tokyonight&show_icons=true)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoscs&theme=tokyonight&layout=compact)](https://github.com/diegoscs/github-readme-stats)
+<p align="center">
+
+Thank you, I hope I see you later!
+</p>
