@@ -8,7 +8,7 @@ I love learning new ways to solve problems based on programming and improving my
 
 • I learn languages fast ;
 
-
+• I try hard to learn, I give 100% of my dedication. ;
 
 ### Get in touch with me through my social network: 
 
