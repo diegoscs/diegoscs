@@ -12,7 +12,7 @@ I love learning new ways to solve problems based on programming and improving my
 
 ### Get in touch with me through my social network: 
 
-<a href="" alt= "LinkedIN" target= "_blank">
+<a href="https://www.linkedin.com/in/diego-soares-8b0850222/" alt= "LinkedIN" target= "_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=green&link=">
 </a>   
 <br>
