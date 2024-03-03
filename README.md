@@ -3,7 +3,6 @@
 Support Analyst | Full Stack Web Development
  
 • Dynamic, ease of working in team, proactive, organized, dedicated to learning and develop skills to the assigned activities;<br>
-• Contact - ds023203@gmail.com
 
 ### Get in touch with me through my social network: 
 
