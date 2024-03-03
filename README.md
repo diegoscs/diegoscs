@@ -20,10 +20,6 @@ Support Analyst | Full Stack Web Development
  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=blue" />
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=blue"/>
  
-### My Stats from GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoscs&theme=tokyonight&show_icons=true)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoscs&theme=tokyonight&layout=compact)](https://github.com/diegoscs/github-readme-stats)
-<p align="center">
 
 Thank you, I hope I see you later!
 </p>
