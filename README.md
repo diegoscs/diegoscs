@@ -4,10 +4,6 @@ Support Analyst | Full Stack Web Development
  
 • Dynamic, ease of working in team, proactive, organized, dedicated to learning and develop skills to the assigned activities;
 
-• I learn languages fast ;
-
-• I try hard to learn, I give 100% of my dedication. ;
-
 ### Get in touch with me through my social network: 
 
 <a href="https://www.linkedin.com/in/diego-soares-8b0850222/" alt= "LinkedIN" target= "_blank">
