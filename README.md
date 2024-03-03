@@ -1,6 +1,6 @@
 #### My name is Diego, I am from São Paulo, Brazil 
 
-I love learning new ways to solve problems based on programming and improving my methods of reinventing apps and websites via programming. 
+Support Analyst | Full Stack Web Development
  
 • I'm enthusiastic about programming ;
 
