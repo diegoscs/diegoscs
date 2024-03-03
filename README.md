@@ -19,7 +19,7 @@ Support Analyst | Full Stack Web Development
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=green"/>
  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=blue" />
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=blue"/><br>
- ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=blue)
+ ![Github Html5]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=blue](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  
 
 Thank you, I hope I see you later!
