@@ -28,6 +28,4 @@ Support Analyst | Full Stack Web Development
 ![office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-<p aligncenter>
 Thank you, I hope I see you later!
-</p>
