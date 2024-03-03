@@ -2,9 +2,7 @@
 
 Support Analyst | Full Stack Web Development
  
-• I'm enthusiastic about programming ;
-
-• Very patient ;
+• Dynamic, ease of working in team, proactive, organized, dedicated to learning and develop skills to the assigned activities;
 
 • I learn languages fast ;
 
