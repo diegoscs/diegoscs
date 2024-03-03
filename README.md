@@ -20,7 +20,7 @@ Support Analyst | Full Stack Web Development
  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=blue" />
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=blue"/><br>
  ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
- ![C] (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  
  
 
