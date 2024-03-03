@@ -10,7 +10,7 @@ Support Analyst | Full Stack Web Development
 <a href="https://www.linkedin.com/in/diego-soares-8b0850222/" alt= "LinkedIN" target= "_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> - ds023203@gmail.com
 
 
 
