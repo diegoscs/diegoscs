@@ -3,13 +3,14 @@
 Support Analyst | Full Stack Web Development
  
 • Dynamic, ease of working in team, proactive, organized, dedicated to learning and develop skills to the assigned activities;
+• Contact - ds023203@gmail.com
 
 ### Get in touch with me through my social network: 
 
 <a href="https://www.linkedin.com/in/diego-soares-8b0850222/" alt= "LinkedIN" target= "_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> •ds023203@gmail.com
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
 
 
 
