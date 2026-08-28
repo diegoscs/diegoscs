@@ -36,6 +36,8 @@ I build end-to-end solutions — from data pipelines and analytics to production
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/apachespark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 **Infrastructure & Tools**
 
